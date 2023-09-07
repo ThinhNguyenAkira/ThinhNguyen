@@ -97,7 +97,7 @@
     font-family: 'Roboto', sans-serif;
 }
 
-.banner2-container-ul {
+.box-text-img {
     list-style: none;
     display: flex;
     justify-content: space-evenly;
@@ -106,11 +106,11 @@
     margin: 0 auto;
 }
 
-.banner2-container-ul li {
+.box-text-img li {
     width: 30%;
 }
 
-.banner2-container-ul .banner2-container-ul-img {
+.box-text-img .box-text-img-img {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -128,7 +128,7 @@
     font-family: 'Roboto', sans-serif;
 }
 
-.banner2-container-ul-2 {
+.box-text-img-2 {
     display: flex;
     flex-direction: column;
     justify-content: center;
